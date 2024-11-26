@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Burcu Gül</h1>
 <h3 align="center">A passionate Data Scientist from Türkiye</h3>
-
+- 🔭 I’m currently working on SupportTicketApp
+- 🌱 I’m currently learning Asp.Net
 - 📫 How to reach me **burcugul10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
