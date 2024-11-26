@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Burcu Gül</h1>
 <h3 align="center">A passionate Data Scientist from Türkiye</h3>
 <div>
-    <p><strong>🔭 I’m currently working on:</strong> SupportTicketApp</p>
-    <p><strong>🌱 I’m currently learning:</strong> Asp.Net</p>
+    <p>🔭 I’m currently working on:<strong>SupportTicketApp</strong></p>
+    <p>🌱 I’m currently learning: <strong>Asp.Net</strong></p>
     <p><strong>📫 How to reach me:</strong> <a href="mailto:burcugul10@gmail.com">burcugul10@gmail.com</a></p>
 </div>
 
