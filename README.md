@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Burcu Gül</h1>
-<h3 align="center">A passionate Data Scientist from Türkiye</h3>
+<h3 align="center">A passionate Computer Engineer from Türkiye</h3>
 
 - 🔭 I’m currently working on [Support Ticket App](https://github.com/burcugulll/SupportTicketApp.git)
 
