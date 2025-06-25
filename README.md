@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Burcu Gül</h1>
 <h3 align="center">A passionate Computer Engineer from Türkiye</h3>
 
-- 🔭 I’m currently working on [Support Ticket App](https://github.com/burcugulll/SupportTicketApp.git)
+- 🔭 I’m currently working on Stock-Price-Regression
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **NLP**
 
 - 📫 How to reach me **burcugul10@gmail.com**
 
